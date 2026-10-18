@@ -41,7 +41,8 @@ apis:
   - name: Dota 2
     description: "Provides information about Player stats , Match stats, Rankings for Dota 2"
     humanURL: https://docs.opendota.com/
-    tags:
+    tags: []
+    tags_raw:
       - Games And Comics
     properties:
       - type: Documentation
